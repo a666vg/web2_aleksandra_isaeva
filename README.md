@@ -13,3 +13,5 @@ pip install -r requirements.txt
 
 
 ``` git pull origin main --rebase ``` 
+
+установить связь между ветками -``` git branch -u origin/main main ```
