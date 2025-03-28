@@ -1,3 +1,4 @@
+import os
 #!/usr/bin/env python3
 
 # для запуска 
@@ -74,5 +75,5 @@ def about():
 
 
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)  # Используйте порт 5000 или $PORT
+if __name__ == "__main__":
+    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 10000)))
