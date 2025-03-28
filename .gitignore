@@ -67,3 +67,6 @@
 # flask
 # Activate.ps1
 # s
+
+gunicorn
+myenv/
