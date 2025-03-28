@@ -8,3 +8,8 @@ python3 -m venv myenv
 source myenv/bin/activate
 pip install -r requirements.txt
 ./app.py
+```
+
+
+
+``` git pull origin main --rebase ``` 
