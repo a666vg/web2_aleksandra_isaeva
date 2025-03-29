@@ -15,3 +15,6 @@ pip install -r requirements.txt
 ``` git pull origin main --rebase ``` 
 
 установить связь между ветками -``` git branch -u origin/main main ```
+
+
+[![Render Status](https://img.shields.io/endpoint?url=https://dashboard.render.com/api/badges/srv-cvjrbc1r0fns739jec80/status)](https://dashboard.render.com/web/srv-cvjrbc1r0fns739jec80)
